@@ -1,0 +1,19 @@
+.title_h4 {
+    padding-left: 15px;
+    font-size: larger;
+    padding-top: 10px;
+}
+.title_h5 {
+    padding-left: 0px;
+    font-size: larger;
+    padding-top: 10px;
+}
+
+.error-summary ,.required {
+	color: #F3565D;
+}
+.title_h6 {
+  padding-left: 40px;
+  font-size: larger;
+  padding-top: 29px;
+}
